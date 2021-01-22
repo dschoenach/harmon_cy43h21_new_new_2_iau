@@ -5,4 +5,6032 @@
 <VAR>6h Precipitation</VAR>
 <UNIT>mm/6h</UNIT>
 <PERIOD>20201204-20201218</PERIOD>
+ <STATION>
+ <MEAN_OBS>  0.453846127     </MEAN_OBS>
+ <STDV_OBS>  0.911637068     </STDV_OBS>
+ <EXP>
+ <ID>        7002 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          52 </NUM>
+ <MEAN>  0.174991906     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.898873627     </BIAS>
+ <RMSE>  0.476193488     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7002 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          52 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.01933181     </BIAS>
+ <RMSE>  0.417742729     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7002 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          52 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.920772552     </BIAS>
+ <RMSE>  0.495799601     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7002 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          52 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.917910159     </BIAS>
+ <RMSE>  0.493436426     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.245282993     </MEAN_OBS>
+ <STDV_OBS>   1.02600968     </STDV_OBS>
+ <EXP>
+ <ID>        7010 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.264683306     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>   2.21100688     </BIAS>
+ <RMSE>  0.195484683     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7010 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.604875267     </BIAS>
+ <RMSE>  0.682784081     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7010 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.472750008     </BIAS>
+ <RMSE>  0.805935264     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7010 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.887510419     </BIAS>
+ <RMSE>  0.539403200     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.883018911     </MEAN_OBS>
+ <STDV_OBS>   1.24047124     </STDV_OBS>
+ <EXP>
+ <ID>        3005 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.809452236     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.803224981     </BIAS>
+ <RMSE>  0.812128484     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3005 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.969142914     </BIAS>
+ <RMSE>  0.727479756     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3005 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.763431609     </BIAS>
+ <RMSE>  0.823882520     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3005 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.818687201     </BIAS>
+ <RMSE>  0.796317637     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.22641516     </MEAN_OBS>
+ <STDV_OBS>   1.86830962     </STDV_OBS>
+ <EXP>
+ <ID>        3017 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.906173348     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.993578792     </BIAS>
+ <RMSE>  0.870288134     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3017 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.14139163     </BIAS>
+ <RMSE>  0.826258838     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3017 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.834756017     </BIAS>
+ <RMSE>  0.910263479     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3017 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.865407228     </BIAS>
+ <RMSE>  0.903311551     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.13207531     </MEAN_OBS>
+ <STDV_OBS>   2.19238925     </STDV_OBS>
+ <EXP>
+ <ID>        3091 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   1.34296203     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>   1.51430535     </BIAS>
+ <RMSE>  0.811309099     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3091 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.47053909     </BIAS>
+ <RMSE>  0.822451711     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3091 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>   1.63738000     </BIAS>
+ <RMSE>  0.782168806     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3091 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>   1.61068630     </BIAS>
+ <RMSE>  0.784100890     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.701886892     </MEAN_OBS>
+ <STDV_OBS>   1.52822125     </STDV_OBS>
+ <EXP>
+ <ID>        3292 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.531167805     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>   1.07096958     </BIAS>
+ <RMSE>  0.747740388     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3292 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.17941236     </BIAS>
+ <RMSE>  0.719982207     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3292 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.945418358     </BIAS>
+ <RMSE>  0.782961726     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3292 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.960761666     </BIAS>
+ <RMSE>  0.781660140     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.346153855     </MEAN_OBS>
+ <STDV_OBS>  0.271786422     </STDV_OBS>
+ <EXP>
+ <ID>        3482 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          52 </NUM>
+ <MEAN>  0.126339242     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>   1.04213548     </BIAS>
+ <RMSE>  0.439702749     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3482 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          52 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.13530564     </BIAS>
+ <RMSE>  0.273102134     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3482 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          52 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>   1.05753863     </BIAS>
+ <RMSE>  0.472118318     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3482 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          52 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>   1.04955041     </BIAS>
+ <RMSE>  0.507863343     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.401886791     </MEAN_OBS>
+ <STDV_OBS>  0.728963077     </STDV_OBS>
+ <EXP>
+ <ID>        2151 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.529804826     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.502731204     </BIAS>
+ <RMSE>  0.847268462     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2151 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.504341245     </BIAS>
+ <RMSE>  0.803131580     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2151 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.328647286     </BIAS>
+ <RMSE>  0.894270599     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2151 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.334613800     </BIAS>
+ <RMSE>  0.889716506     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.586792409     </MEAN_OBS>
+ <STDV_OBS>  0.985881567     </STDV_OBS>
+ <EXP>
+ <ID>        2186 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.592083216     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>   1.02563739     </BIAS>
+ <RMSE>  0.669832885     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2186 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.01967692     </BIAS>
+ <RMSE>  0.649555683     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2186 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.833278835     </BIAS>
+ <RMSE>  0.755674958     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2186 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.845171630     </BIAS>
+ <RMSE>  0.746533096     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.162264138     </MEAN_OBS>
+ <STDV_OBS>  0.531446576     </STDV_OBS>
+ <EXP>
+ <ID>        2520 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.289813340     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.834813774     </BIAS>
+ <RMSE>  0.751774728     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2520 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.38855994     </BIAS>
+ <RMSE>  0.510389924     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2520 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.237359315     </BIAS>
+ <RMSE>  0.914521158     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2520 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.265804231     </BIAS>
+ <RMSE>  0.888973057     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.356862783     </MEAN_OBS>
+ <STDV_OBS>  0.484150887     </STDV_OBS>
+ <EXP>
+ <ID>        2562 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          51 </NUM>
+ <MEAN>  0.307612538     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.760760784     </BIAS>
+ <RMSE>  0.761223018     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2562 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          51 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.17416680     </BIAS>
+ <RMSE>  0.613553643     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2562 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          51 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.531000555     </BIAS>
+ <RMSE>  0.801495731     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2562 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          51 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.573060930     </BIAS>
+ <RMSE>  0.755642295     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.43396315E-02 </MEAN_OBS>
+ <STDV_OBS>  0.286485046     </STDV_OBS>
+ <EXP>
+ <ID>        2590 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.172508731     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.369336605     </BIAS>
+ <RMSE>  0.874261141     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2590 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.474621505     </BIAS>
+ <RMSE>  0.732135773     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2590 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.195643574     </BIAS>
+ <RMSE>  0.870537162     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2590 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.165132135     </BIAS>
+ <RMSE>  0.822490156     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.475471675     </MEAN_OBS>
+ <STDV_OBS>  0.523686051     </STDV_OBS>
+ <EXP>
+ <ID>        2664 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.328576177     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.438862950     </BIAS>
+ <RMSE>  0.933318973     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2664 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.622565269     </BIAS>
+ <RMSE>  0.897001803     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2664 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.746083856     </BIAS>
+ <RMSE>  0.701299548     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2664 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.790390551     </BIAS>
+ <RMSE>  0.657526731     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.120754711     </MEAN_OBS>
+ <STDV_OBS>  0.444038153     </STDV_OBS>
+ <EXP>
+ <ID>        6418 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.154967114     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.365041196     </BIAS>
+ <RMSE>  0.460064828     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6418 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.497789145     </BIAS>
+ <RMSE>  0.549850702     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6418 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.412449986     </BIAS>
+ <RMSE>  0.298267752     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6418 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.432380050     </BIAS>
+ <RMSE>  0.295351535     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.456603795     </MEAN_OBS>
+ <STDV_OBS>  0.109963022     </STDV_OBS>
+ <EXP>
+ <ID>        6464 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   3.42334323E-02 </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.824689984     </BIAS>
+ <RMSE>  0.469405830     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6464 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.25222790     </BIAS>
+ <RMSE>  0.161831021     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6464 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.905389190     </BIAS>
+ <RMSE>  0.165672660     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6464 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.895544231     </BIAS>
+ <RMSE>  0.232310370     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.403773576     </MEAN_OBS>
+ <STDV_OBS>  0.956775188     </STDV_OBS>
+ <EXP>
+ <ID>        3590 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.317536980     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.726497412     </BIAS>
+ <RMSE>  0.770597279     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3590 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.678396702     </BIAS>
+ <RMSE>  0.728379548     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3590 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.463501334     </BIAS>
+ <RMSE>  0.886544824     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3590 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.510791183     </BIAS>
+ <RMSE>  0.845371783     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.916981280     </MEAN_OBS>
+ <STDV_OBS>   1.57840109     </STDV_OBS>
+ <EXP>
+ <ID>        3002 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.870349526     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>   1.11088204     </BIAS>
+ <RMSE>  0.736108601     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3002 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.10716283     </BIAS>
+ <RMSE>  0.713139713     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3002 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.732418180     </BIAS>
+ <RMSE>  0.873563051     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3002 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.855361402     </BIAS>
+ <RMSE>  0.842822790     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.818867981     </MEAN_OBS>
+ <STDV_OBS>   1.61043346     </STDV_OBS>
+ <EXP>
+ <ID>        3008 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.793985248     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.731252134     </BIAS>
+ <RMSE>  0.901876926     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3008 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.980990529     </BIAS>
+ <RMSE>  0.840975344     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3008 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.578986704     </BIAS>
+ <RMSE>  0.934417009     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3008 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.584560275     </BIAS>
+ <RMSE>  0.931344092     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.894339681     </MEAN_OBS>
+ <STDV_OBS>  0.974763334     </STDV_OBS>
+ <EXP>
+ <ID>        3275 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.268825561     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>   1.15013635     </BIAS>
+ <RMSE>  0.795121193     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3275 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.11039853     </BIAS>
+ <RMSE>  0.813656271     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3275 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>   1.18614566     </BIAS>
+ <RMSE>  0.798597991     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3275 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>   1.26442444     </BIAS>
+ <RMSE>  0.796382368     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.535849035     </MEAN_OBS>
+ <STDV_OBS>   1.05096674     </STDV_OBS>
+ <EXP>
+ <ID>        3382 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.318348646     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.673028469     </BIAS>
+ <RMSE>  0.816443145     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3382 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.755512238     </BIAS>
+ <RMSE>  0.788338721     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3382 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.531482041     </BIAS>
+ <RMSE>  0.884135485     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3382 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.519462287     </BIAS>
+ <RMSE>  0.889117360     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.430188775     </MEAN_OBS>
+ <STDV_OBS>   1.35091257     </STDV_OBS>
+ <EXP>
+ <ID>        3391 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.278130472     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>   1.09178638     </BIAS>
+ <RMSE>  0.872491181     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3391 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.34268463     </BIAS>
+ <RMSE>  0.837652981     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3391 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.540447414     </BIAS>
+ <RMSE>  0.906518281     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3391 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.581861019     </BIAS>
+ <RMSE>  0.900953948     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.339622676     </MEAN_OBS>
+ <STDV_OBS>   1.49885893     </STDV_OBS>
+ <EXP>
+ <ID>        3392 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.303471953     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.915816545     </BIAS>
+ <RMSE>  0.768627763     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3392 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.975591183     </BIAS>
+ <RMSE>  0.724351227     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3392 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>   1.03021944     </BIAS>
+ <RMSE>  0.729637980     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3392 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>   1.06930780     </BIAS>
+ <RMSE>  0.729538441     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.362264246     </MEAN_OBS>
+ <STDV_OBS>   1.32917595     </STDV_OBS>
+ <EXP>
+ <ID>        3469 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.240358651     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>   1.06677628     </BIAS>
+ <RMSE>  0.928591251     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3469 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.12402058     </BIAS>
+ <RMSE>  0.915190041     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3469 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.485302866     </BIAS>
+ <RMSE>  0.936823845     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3469 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.472256541     </BIAS>
+ <RMSE>  0.935848534     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.316981196     </MEAN_OBS>
+ <STDV_OBS>  0.998437107     </STDV_OBS>
+ <EXP>
+ <ID>        3488 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.298747599     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.715008795     </BIAS>
+ <RMSE>  0.729135633     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3488 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.759625196     </BIAS>
+ <RMSE>  0.639499724     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3488 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.697158635     </BIAS>
+ <RMSE>  0.758337319     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3488 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.688854158     </BIAS>
+ <RMSE>  0.742827892     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.438461602     </MEAN_OBS>
+ <STDV_OBS>  0.246134639     </STDV_OBS>
+ <EXP>
+ <ID>        3684 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          52 </NUM>
+ <MEAN>   6.88695163E-02 </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.723705351     </BIAS>
+ <RMSE>  0.350989401     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3684 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          52 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.897812009     </BIAS>
+ <RMSE>   8.71572793E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3684 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          52 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.717422009     </BIAS>
+ <RMSE>  0.376406670     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3684 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          52 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.716117978     </BIAS>
+ <RMSE>  0.381162882     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.403773606     </MEAN_OBS>
+ <STDV_OBS>  0.483409792     </STDV_OBS>
+ <EXP>
+ <ID>        3693 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.164162651     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.849995911     </BIAS>
+ <RMSE>  0.226113543     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3693 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.00997317     </BIAS>
+ <RMSE>  0.139930665     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3693 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.777485967     </BIAS>
+ <RMSE>  0.219949648     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3693 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.832168937     </BIAS>
+ <RMSE>  0.171634555     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.430188715     </MEAN_OBS>
+ <STDV_OBS>  0.604440987     </STDV_OBS>
+ <EXP>
+ <ID>        3797 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.252658069     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.794337094     </BIAS>
+ <RMSE>  0.327661246     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3797 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.708667576     </BIAS>
+ <RMSE>  0.362796336     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3797 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.702086508     </BIAS>
+ <RMSE>  0.397868723     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3797 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.729129195     </BIAS>
+ <RMSE>  0.366615236     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.471698076     </MEAN_OBS>
+ <STDV_OBS>  0.584654152     </STDV_OBS>
+ <EXP>
+ <ID>        6407 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.224917039     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.793275952     </BIAS>
+ <RMSE>  0.756179631     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6407 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.810206890     </BIAS>
+ <RMSE>  0.676524043     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6407 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.770762205     </BIAS>
+ <RMSE>  0.758515775     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6407 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.746708214     </BIAS>
+ <RMSE>  0.775301456     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   6.56246208E-03 </STDV_OBS>
+ <EXP>
+ <ID>        6450 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          13 </NUM>
+ <MEAN>   3.29328747E-03 </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>   3.05166747E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6450 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          13 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.122716449     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6450 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          13 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>   4.77476092E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6450 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          13 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>   6.30500959E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.571698129     </MEAN_OBS>
+ <STDV_OBS>   1.16079497     </STDV_OBS>
+ <EXP>
+ <ID>        2544 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.668544471     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>   1.22422254     </BIAS>
+ <RMSE>  0.609302580     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2544 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.44456482     </BIAS>
+ <RMSE>  0.542972267     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2544 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.938674688     </BIAS>
+ <RMSE>  0.580385208     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2544 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.978588998     </BIAS>
+ <RMSE>  0.576819479     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.320754707     </MEAN_OBS>
+ <STDV_OBS>   1.12048972     </STDV_OBS>
+ <EXP>
+ <ID>        2545 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.660662115     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>   1.27981639     </BIAS>
+ <RMSE>  0.533126652     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2545 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.47985148     </BIAS>
+ <RMSE>  0.494929999     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2545 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.844632089     </BIAS>
+ <RMSE>  0.556733429     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2545 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.955406427     </BIAS>
+ <RMSE>  0.509038270     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.664151013     </MEAN_OBS>
+ <STDV_OBS>  0.656949043     </STDV_OBS>
+ <EXP>
+ <ID>        2556 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.405484140     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.878629088     </BIAS>
+ <RMSE>  0.838918984     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2556 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.41521299     </BIAS>
+ <RMSE>  0.625863433     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2556 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>   1.19006240     </BIAS>
+ <RMSE>  0.735524118     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2556 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>   1.26125586     </BIAS>
+ <RMSE>  0.684412301     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.441509455     </MEAN_OBS>
+ <STDV_OBS>  0.683373630     </STDV_OBS>
+ <EXP>
+ <ID>        2561 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.440282732     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.800574899     </BIAS>
+ <RMSE>  0.851281881     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2561 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.14597988     </BIAS>
+ <RMSE>  0.745098054     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2561 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.494650871     </BIAS>
+ <RMSE>  0.757026851     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2561 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.528055787     </BIAS>
+ <RMSE>  0.731243014     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.637735903     </MEAN_OBS>
+ <STDV_OBS>  0.985652924     </STDV_OBS>
+ <EXP>
+ <ID>        2629 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.513540626     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.887495816     </BIAS>
+ <RMSE>  0.845945537     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2629 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.18963754     </BIAS>
+ <RMSE>  0.699154317     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2629 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.842932701     </BIAS>
+ <RMSE>  0.910159290     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2629 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.925208569     </BIAS>
+ <RMSE>  0.880729139     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.409433961     </MEAN_OBS>
+ <STDV_OBS>  0.453974247     </STDV_OBS>
+ <EXP>
+ <ID>        2661 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.383510947     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.265405387     </BIAS>
+ <RMSE>  0.954404831     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2661 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.505411565     </BIAS>
+ <RMSE>  0.843969047     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2661 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.595336616     </BIAS>
+ <RMSE>  0.762618959     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2661 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.624056756     </BIAS>
+ <RMSE>  0.715177357     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.135849059     </MEAN_OBS>
+ <STDV_OBS>  0.473702252     </STDV_OBS>
+ <EXP>
+ <ID>        2667 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.346399873     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>   1.20979249     </BIAS>
+ <RMSE>  0.872635961     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2667 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.78883743     </BIAS>
+ <RMSE>  0.792053580     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2667 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.459337711     </BIAS>
+ <RMSE>  0.504447997     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2667 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.426738292     </BIAS>
+ <RMSE>  0.446680307     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.288679242     </MEAN_OBS>
+ <STDV_OBS>  0.702436507     </STDV_OBS>
+ <EXP>
+ <ID>        2141 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.556106627     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.648921728     </BIAS>
+ <RMSE>  0.608365595     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2141 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.689285219     </BIAS>
+ <RMSE>  0.523659527     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2141 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.578117251     </BIAS>
+ <RMSE>  0.594994664     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2141 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.577280462     </BIAS>
+ <RMSE>  0.592596233     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.383018970     </MEAN_OBS>
+ <STDV_OBS>  0.667754054     </STDV_OBS>
+ <EXP>
+ <ID>        2154 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.366420150     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.500332236     </BIAS>
+ <RMSE>  0.850058734     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2154 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.550431728     </BIAS>
+ <RMSE>  0.811246991     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2154 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.404732376     </BIAS>
+ <RMSE>  0.925514221     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2154 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.405826271     </BIAS>
+ <RMSE>  0.926940024     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.330188692     </MEAN_OBS>
+ <STDV_OBS>  0.884103298     </STDV_OBS>
+ <EXP>
+ <ID>        2171 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.478104413     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.980278015     </BIAS>
+ <RMSE>  0.510900319     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2171 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.941973746     </BIAS>
+ <RMSE>  0.479677707     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2171 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.878541589     </BIAS>
+ <RMSE>  0.485833704     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2171 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.873817623     </BIAS>
+ <RMSE>  0.476574868     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.27999997     </MEAN_OBS>
+ <STDV_OBS>   1.67466295     </STDV_OBS>
+ <EXP>
+ <ID>        6126 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          10 </NUM>
+ <MEAN>   2.03170538     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>   2.01882648     </BIAS>
+ <RMSE>  0.491676092     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6126 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          10 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.16577911     </BIAS>
+ <RMSE>  0.360478193     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6126 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          10 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>   1.40995657     </BIAS>
+ <RMSE>  0.809516490     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6126 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          10 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>   1.41223180     </BIAS>
+ <RMSE>  0.801455855     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.50000012     </MEAN_OBS>
+ <STDV_OBS>   1.97835231     </STDV_OBS>
+ <EXP>
+ <ID>        6135 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          14 </NUM>
+ <MEAN>   1.65081072     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.960894883     </BIAS>
+ <RMSE>  0.902586222     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6135 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          14 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.43516624     </BIAS>
+ <RMSE>  0.725348532     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6135 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          14 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>   1.06266725     </BIAS>
+ <RMSE>  0.861376107     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6135 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          14 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>   1.12607312     </BIAS>
+ <RMSE>  0.844460547     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.774999976     </MEAN_OBS>
+ <STDV_OBS>   1.86454201     </STDV_OBS>
+ <EXP>
+ <ID>        6136 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   1.34394538     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.784835696     </BIAS>
+ <RMSE>  0.853257895     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6136 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.671184003     </BIAS>
+ <RMSE>  0.749341965     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6136 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>   1.19012880     </BIAS>
+ <RMSE>  0.911167860     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6136 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>   1.11930466     </BIAS>
+ <RMSE>  0.895027280     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.13750005     </MEAN_OBS>
+ <STDV_OBS>   1.41761220     </STDV_OBS>
+ <EXP>
+ <ID>        6138 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          16 </NUM>
+ <MEAN>   1.44480455     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.953200161     </BIAS>
+ <RMSE>  0.745121896     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6138 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          16 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.916361690     </BIAS>
+ <RMSE>  0.725164592     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6138 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          16 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.616811097     </BIAS>
+ <RMSE>  0.889478922     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6138 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          16 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.759024620     </BIAS>
+ <RMSE>  0.841859460     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.810000062     </MEAN_OBS>
+ <STDV_OBS>  0.945226371     </STDV_OBS>
+ <EXP>
+ <ID>        6141 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          20 </NUM>
+ <MEAN>  0.729786634     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.949295938     </BIAS>
+ <RMSE>  0.734823525     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6141 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          20 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.04829192     </BIAS>
+ <RMSE>  0.644899726     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6141 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          20 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.834089696     </BIAS>
+ <RMSE>  0.818585753     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6141 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          20 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.886182129     </BIAS>
+ <RMSE>  0.768660128     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.485714316     </MEAN_OBS>
+ <STDV_OBS>  0.691511214     </STDV_OBS>
+ <EXP>
+ <ID>        6147 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          14 </NUM>
+ <MEAN>  0.580682993     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.531310618     </BIAS>
+ <RMSE>  0.773020029     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6147 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          14 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.833599985     </BIAS>
+ <RMSE>  0.486247480     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6147 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          14 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.399859011     </BIAS>
+ <RMSE>  0.841411531     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6147 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          14 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.408736646     </BIAS>
+ <RMSE>  0.822083652     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.381818146     </MEAN_OBS>
+ <STDV_OBS>  0.776557267     </STDV_OBS>
+ <EXP>
+ <ID>        6149 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          22 </NUM>
+ <MEAN>  0.385250896     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.799180925     </BIAS>
+ <RMSE>  0.485745162     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6149 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          22 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.03033400     </BIAS>
+ <RMSE>  0.286808550     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6149 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          22 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.579660475     </BIAS>
+ <RMSE>  0.598296702     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6149 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          22 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.620887518     </BIAS>
+ <RMSE>  0.584149122     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.14285719     </MEAN_OBS>
+ <STDV_OBS>   1.35501969     </STDV_OBS>
+ <EXP>
+ <ID>        6154 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          14 </NUM>
+ <MEAN>   1.16909647     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.862520814     </BIAS>
+ <RMSE>  0.868464589     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6154 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          14 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.11849821     </BIAS>
+ <RMSE>  0.754243612     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6154 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          14 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.808057606     </BIAS>
+ <RMSE>  0.893871367     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6154 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          14 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.851322114     </BIAS>
+ <RMSE>  0.871414781     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.62857139     </MEAN_OBS>
+ <STDV_OBS>   1.63909101     </STDV_OBS>
+ <EXP>
+ <ID>        6156 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          14 </NUM>
+ <MEAN>   1.38709688     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.977729440     </BIAS>
+ <RMSE>  0.918748379     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6156 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          14 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.16159260     </BIAS>
+ <RMSE>  0.869803727     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6156 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          14 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>   1.14840984     </BIAS>
+ <RMSE>  0.872216463     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6156 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          14 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>   1.23908210     </BIAS>
+ <RMSE>  0.838387787     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.936363697     </MEAN_OBS>
+ <STDV_OBS>   1.70143056     </STDV_OBS>
+ <EXP>
+ <ID>        6159 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          22 </NUM>
+ <MEAN>   1.03879476     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>   1.42578042     </BIAS>
+ <RMSE>  0.695755780     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6159 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          22 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.45349360     </BIAS>
+ <RMSE>  0.650811195     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6159 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          22 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.951889396     </BIAS>
+ <RMSE>  0.835393608     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6159 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          22 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.982906818     </BIAS>
+ <RMSE>  0.831145346     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.937500000     </MEAN_OBS>
+ <STDV_OBS>   1.54454362     </STDV_OBS>
+ <EXP>
+ <ID>        6169 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          16 </NUM>
+ <MEAN>   1.37965596     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>   1.50667715     </BIAS>
+ <RMSE>  0.672908366     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6169 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          16 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.56098676     </BIAS>
+ <RMSE>  0.681410432     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6169 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          16 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>   1.26982939     </BIAS>
+ <RMSE>  0.631097734     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6169 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          16 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>   1.24250424     </BIAS>
+ <RMSE>  0.658009589     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.18888879     </MEAN_OBS>
+ <STDV_OBS>   1.08782899     </STDV_OBS>
+ <EXP>
+ <ID>        6170 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          27 </NUM>
+ <MEAN>  0.755376935     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>   1.31047618     </BIAS>
+ <RMSE>  0.624670386     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6170 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          27 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.64118540     </BIAS>
+ <RMSE>  0.409024656     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6170 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          27 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.860458136     </BIAS>
+ <RMSE>  0.849912107     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6170 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          27 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.906269252     </BIAS>
+ <RMSE>  0.835170925     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.833333373     </MEAN_OBS>
+ <STDV_OBS>  0.994965374     </STDV_OBS>
+ <EXP>
+ <ID>        6174 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          18 </NUM>
+ <MEAN>  0.876542747     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.678952217     </BIAS>
+ <RMSE>  0.883046627     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6174 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          18 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.13258612     </BIAS>
+ <RMSE>  0.654030800     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6174 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          18 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.715940237     </BIAS>
+ <RMSE>  0.888702393     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6174 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          18 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.777283192     </BIAS>
+ <RMSE>  0.865712583     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.35599983     </MEAN_OBS>
+ <STDV_OBS>   1.24110067     </STDV_OBS>
+ <EXP>
+ <ID>        6180 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>  0.738800824     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>   1.26693296     </BIAS>
+ <RMSE>  0.715934992     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6180 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.65124571     </BIAS>
+ <RMSE>  0.465172976     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6180 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.981847465     </BIAS>
+ <RMSE>  0.860574365     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6180 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>   1.03986597     </BIAS>
+ <RMSE>  0.833861589     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.96666682     </MEAN_OBS>
+ <STDV_OBS>   1.55530024     </STDV_OBS>
+ <EXP>
+ <ID>        6188 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          18 </NUM>
+ <MEAN>   1.28078043     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>   1.03591216     </BIAS>
+ <RMSE>  0.841373384     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6188 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          18 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.34584689     </BIAS>
+ <RMSE>  0.717260361     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6188 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          18 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.865863800     </BIAS>
+ <RMSE>  0.882890761     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6188 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          18 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.901356757     </BIAS>
+ <RMSE>  0.873393357     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.557142913     </MEAN_OBS>
+ <STDV_OBS>  0.635017395     </STDV_OBS>
+ <EXP>
+ <ID>        6193 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          14 </NUM>
+ <MEAN>  0.442854732     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.731403410     </BIAS>
+ <RMSE>  0.452324212     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6193 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          14 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.11083233     </BIAS>
+ <RMSE>  0.209867656     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6193 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          14 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.459080338     </BIAS>
+ <RMSE>  0.761265278     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6193 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          14 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.404584229     </BIAS>
+ <RMSE>  0.800572991     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.783333302     </MEAN_OBS>
+ <STDV_OBS>  0.575339854     </STDV_OBS>
+ <EXP>
+ <ID>        6197 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          12 </NUM>
+ <MEAN>  0.541540742     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.781076252     </BIAS>
+ <RMSE>  0.478371531     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6197 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          12 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.23027241     </BIAS>
+ <RMSE>  0.127409041     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6197 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          12 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.221961722     </BIAS>
+ <RMSE>  0.932389796     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6197 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          12 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.274135441     </BIAS>
+ <RMSE>  0.894138455     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.942105234     </MEAN_OBS>
+ <STDV_OBS>   1.08879673     </STDV_OBS>
+ <EXP>
+ <ID>        6019 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          19 </NUM>
+ <MEAN>  0.814028502     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>   1.74472737     </BIAS>
+ <RMSE>  0.456439525     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6019 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          19 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.67335367     </BIAS>
+ <RMSE>   2.61266455E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6019 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          19 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.887085021     </BIAS>
+ <RMSE>  0.786168337     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6019 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          19 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.962614715     </BIAS>
+ <RMSE>  0.740702569     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.612500012     </MEAN_OBS>
+ <STDV_OBS>  0.887075722     </STDV_OBS>
+ <EXP>
+ <ID>        6030 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          32 </NUM>
+ <MEAN>  0.436266482     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.544977009     </BIAS>
+ <RMSE>  0.888738215     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6030 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          32 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.972031891     </BIAS>
+ <RMSE>  0.698770761     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6030 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          32 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.508547187     </BIAS>
+ <RMSE>  0.865535498     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6030 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          32 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.528834939     </BIAS>
+ <RMSE>  0.852390587     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.884615421     </MEAN_OBS>
+ <STDV_OBS>   1.03585625     </STDV_OBS>
+ <EXP>
+ <ID>        6031 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          26 </NUM>
+ <MEAN>  0.605802536     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.715454996     </BIAS>
+ <RMSE>  0.863216579     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6031 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          26 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.25317919     </BIAS>
+ <RMSE>  0.621191025     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6031 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          26 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.715331376     </BIAS>
+ <RMSE>  0.836250842     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6031 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          26 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.680299997     </BIAS>
+ <RMSE>  0.856578171     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.550000012     </MEAN_OBS>
+ <STDV_OBS>  0.979702175     </STDV_OBS>
+ <EXP>
+ <ID>        6041 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          24 </NUM>
+ <MEAN>   1.09310532     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>   1.11978734     </BIAS>
+ <RMSE>  0.789729059     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6041 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          24 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.65479374     </BIAS>
+ <RMSE>  0.581317723     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6041 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          24 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.479889393     </BIAS>
+ <RMSE>  0.905784488     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6041 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          24 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.591008067     </BIAS>
+ <RMSE>  0.842306674     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.394285709     </MEAN_OBS>
+ <STDV_OBS>   1.02303135     </STDV_OBS>
+ <EXP>
+ <ID>        6052 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          35 </NUM>
+ <MEAN>  0.598532915     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>   1.69305253     </BIAS>
+ <RMSE>  0.514935732     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6052 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          35 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.50785995     </BIAS>
+ <RMSE>  0.362861961     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6052 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          35 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.521084785     </BIAS>
+ <RMSE>  0.843589425     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6052 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          35 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.671055496     </BIAS>
+ <RMSE>  0.764832973     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.414814800     </MEAN_OBS>
+ <STDV_OBS>   1.22827065     </STDV_OBS>
+ <EXP>
+ <ID>        6058 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          27 </NUM>
+ <MEAN>  0.762616038     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>   1.11151326     </BIAS>
+ <RMSE>  0.713137627     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6058 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          27 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.09088290     </BIAS>
+ <RMSE>  0.565381646     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6058 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          27 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.844471514     </BIAS>
+ <RMSE>  0.846189082     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6058 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          27 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.751287997     </BIAS>
+ <RMSE>  0.819358408     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.00000000     </MEAN_OBS>
+ <STDV_OBS>   1.06161952     </STDV_OBS>
+ <EXP>
+ <ID>        6060 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          22 </NUM>
+ <MEAN>  0.694983780     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.656721056     </BIAS>
+ <RMSE>  0.883589566     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6060 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          22 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.15861964     </BIAS>
+ <RMSE>  0.695099533     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6060 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          22 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.734185159     </BIAS>
+ <RMSE>  0.829549015     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6060 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          22 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.766955495     </BIAS>
+ <RMSE>  0.812397361     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.862500012     </MEAN_OBS>
+ <STDV_OBS>   1.23324502     </STDV_OBS>
+ <EXP>
+ <ID>        6065 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          16 </NUM>
+ <MEAN>  0.819590151     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.991282165     </BIAS>
+ <RMSE>  0.809225380     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6065 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          16 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.24553502     </BIAS>
+ <RMSE>  0.685241818     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6065 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          16 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.664195955     </BIAS>
+ <RMSE>  0.862738013     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6065 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          16 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.614027083     </BIAS>
+ <RMSE>  0.871153712     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.36249995     </MEAN_OBS>
+ <STDV_OBS>   1.47228885     </STDV_OBS>
+ <EXP>
+ <ID>        6068 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          16 </NUM>
+ <MEAN>  0.970418215     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>   1.07098401     </BIAS>
+ <RMSE>  0.803715825     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6068 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          16 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.54776311     </BIAS>
+ <RMSE>  0.674258351     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6068 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          16 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.951770425     </BIAS>
+ <RMSE>  0.784850478     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6068 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          16 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.918349564     </BIAS>
+ <RMSE>  0.784309089     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.02727282     </MEAN_OBS>
+ <STDV_OBS>   1.29231775     </STDV_OBS>
+ <EXP>
+ <ID>        6070 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          22 </NUM>
+ <MEAN>  0.659576356     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>   1.24382615     </BIAS>
+ <RMSE>  0.652956605     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6070 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          22 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.44003665     </BIAS>
+ <RMSE>  0.538155735     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6070 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          22 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.939867973     </BIAS>
+ <RMSE>  0.733762383     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6070 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          22 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.911442578     </BIAS>
+ <RMSE>  0.747762918     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.733333349     </MEAN_OBS>
+ <STDV_OBS>   1.09480464     </STDV_OBS>
+ <EXP>
+ <ID>        6072 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          18 </NUM>
+ <MEAN>  0.678847790     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>   1.21136868     </BIAS>
+ <RMSE>  0.462407440     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6072 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          18 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.41896904     </BIAS>
+ <RMSE>  0.309447885     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6072 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          18 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.847820818     </BIAS>
+ <RMSE>  0.672443509     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6072 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          18 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.862838686     </BIAS>
+ <RMSE>  0.647586942     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.455172420     </MEAN_OBS>
+ <STDV_OBS>  0.925715864     </STDV_OBS>
+ <EXP>
+ <ID>        6074 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          29 </NUM>
+ <MEAN>  0.527409852     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>   1.06672585     </BIAS>
+ <RMSE>  0.578091562     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6074 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          29 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.23751473     </BIAS>
+ <RMSE>  0.384707749     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6074 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          29 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.713579655     </BIAS>
+ <RMSE>  0.702584743     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6074 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          29 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.683545828     </BIAS>
+ <RMSE>  0.704198122     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.738461673     </MEAN_OBS>
+ <STDV_OBS>   1.19592810     </STDV_OBS>
+ <EXP>
+ <ID>        6079 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          26 </NUM>
+ <MEAN>  0.935939372     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>   1.28236175     </BIAS>
+ <RMSE>  0.769956768     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6079 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          26 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.57280695     </BIAS>
+ <RMSE>  0.731251299     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6079 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          26 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.558707714     </BIAS>
+ <RMSE>  0.879498601     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6079 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          26 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.716733992     </BIAS>
+ <RMSE>  0.791513860     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.942105234     </MEAN_OBS>
+ <STDV_OBS>   1.23988867     </STDV_OBS>
+ <EXP>
+ <ID>        6082 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          19 </NUM>
+ <MEAN>  0.735507548     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>   1.27567708     </BIAS>
+ <RMSE>  0.813707650     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6082 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          19 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.44806945     </BIAS>
+ <RMSE>  0.674247146     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6082 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          19 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.682724416     </BIAS>
+ <RMSE>  0.901246667     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6082 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          19 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.512261987     </BIAS>
+ <RMSE>  0.924590349     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.827272773     </MEAN_OBS>
+ <STDV_OBS>  0.994321585     </STDV_OBS>
+ <EXP>
+ <ID>        6102 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          22 </NUM>
+ <MEAN>  0.656875908     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.888997018     </BIAS>
+ <RMSE>  0.643775642     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6102 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          22 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.20017385     </BIAS>
+ <RMSE>  0.459350765     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6102 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          22 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.865257680     </BIAS>
+ <RMSE>  0.584731221     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6102 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          22 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.835945249     </BIAS>
+ <RMSE>  0.587147474     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.63749993     </MEAN_OBS>
+ <STDV_OBS>   1.09162664     </STDV_OBS>
+ <EXP>
+ <ID>        6104 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          16 </NUM>
+ <MEAN>  0.659552097     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.583053887     </BIAS>
+ <RMSE>  0.968538702     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6104 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          16 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.05638385     </BIAS>
+ <RMSE>  0.802704215     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6104 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          16 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.984991491     </BIAS>
+ <RMSE>  0.855814934     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6104 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          16 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>   1.03737140     </BIAS>
+ <RMSE>  0.847867429     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.26315784     </MEAN_OBS>
+ <STDV_OBS>   1.50084925     </STDV_OBS>
+ <EXP>
+ <ID>        6109 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          19 </NUM>
+ <MEAN>   1.01932776     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>   1.38147843     </BIAS>
+ <RMSE>  0.612407982     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6109 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          19 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.85176408     </BIAS>
+ <RMSE>  0.430834055     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6109 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          19 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>   1.17722249     </BIAS>
+ <RMSE>  0.677167833     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6109 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          19 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>   1.17412412     </BIAS>
+ <RMSE>  0.659467697     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.825806499     </MEAN_OBS>
+ <STDV_OBS>   1.18143821     </STDV_OBS>
+ <EXP>
+ <ID>        6110 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          31 </NUM>
+ <MEAN>  0.630941331     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.619426966     </BIAS>
+ <RMSE>  0.908970594     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6110 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          31 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.819868267     </BIAS>
+ <RMSE>  0.800267458     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6110 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          31 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.561305285     </BIAS>
+ <RMSE>  0.881690919     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6110 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          31 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.648277819     </BIAS>
+ <RMSE>  0.838706017     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.519354820     </MEAN_OBS>
+ <STDV_OBS>   1.29538155     </STDV_OBS>
+ <EXP>
+ <ID>        6119 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          31 </NUM>
+ <MEAN>  0.881001472     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>   1.00812399     </BIAS>
+ <RMSE>  0.807626009     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6119 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          31 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.28998542     </BIAS>
+ <RMSE>  0.712727308     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6119 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          31 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.753388703     </BIAS>
+ <RMSE>  0.915808022     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6119 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          31 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.753913581     </BIAS>
+ <RMSE>  0.894983351     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.199999973     </MEAN_OBS>
+ <STDV_OBS>  0.519596159     </STDV_OBS>
+ <EXP>
+ <ID>        2443 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.352698177     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.525202513     </BIAS>
+ <RMSE>  0.659770846     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2443 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.669169962     </BIAS>
+ <RMSE>  0.497914165     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2443 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.344958693     </BIAS>
+ <RMSE>  0.783170402     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2443 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.336406469     </BIAS>
+ <RMSE>  0.769430161     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.109433956     </MEAN_OBS>
+ <STDV_OBS>  0.461279720     </STDV_OBS>
+ <EXP>
+ <ID>        2458 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.242185339     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.407413185     </BIAS>
+ <RMSE>  0.795593858     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2458 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.667710662     </BIAS>
+ <RMSE>  0.407916009     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2458 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.360849649     </BIAS>
+ <RMSE>  0.716412246     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2458 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.333365917     </BIAS>
+ <RMSE>  0.704081833     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.388679296     </MEAN_OBS>
+ <STDV_OBS>  0.890250623     </STDV_OBS>
+ <EXP>
+ <ID>        2489 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.486588836     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.824286878     </BIAS>
+ <RMSE>  0.640468717     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2489 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.803768337     </BIAS>
+ <RMSE>  0.668772280     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2489 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.396382689     </BIAS>
+ <RMSE>  0.935952187     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2489 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.355197459     </BIAS>
+ <RMSE>  0.924827635     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.67924541E-02 </MEAN_OBS>
+ <STDV_OBS>  0.429622024     </STDV_OBS>
+ <EXP>
+ <ID>       26501 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.206563354     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.302377403     </BIAS>
+ <RMSE>  0.568041146     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26501 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.471170843     </BIAS>
+ <RMSE>  0.328894466     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26501 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.229039744     </BIAS>
+ <RMSE>  0.861364365     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26501 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.235961676     </BIAS>
+ <RMSE>  0.868123949     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.79245293E-02 </MEAN_OBS>
+ <STDV_OBS>  0.348970979     </STDV_OBS>
+ <EXP>
+ <ID>       26515 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.186612949     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.341039002     </BIAS>
+ <RMSE>  0.569734633     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26515 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.405069292     </BIAS>
+ <RMSE>  0.416707397     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26515 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.275097936     </BIAS>
+ <RMSE>  0.609903753     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26515 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.272284687     </BIAS>
+ <RMSE>  0.620004416     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.200000003     </MEAN_OBS>
+ <STDV_OBS>  0.624660969     </STDV_OBS>
+ <EXP>
+ <ID>       26529 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.244241297     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.450443119     </BIAS>
+ <RMSE>  0.880836666     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26529 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.10623050     </BIAS>
+ <RMSE>  0.272244275     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26529 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.477682173     </BIAS>
+ <RMSE>  0.903076708     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26529 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.478204191     </BIAS>
+ <RMSE>  0.899802566     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.132075474     </MEAN_OBS>
+ <STDV_OBS>  0.340517998     </STDV_OBS>
+ <EXP>
+ <ID>       26547 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.190863952     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.383297026     </BIAS>
+ <RMSE>  0.797293127     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26547 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.859938562     </BIAS>
+ <RMSE>  0.418386012     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26547 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.543608308     </BIAS>
+ <RMSE>  0.408869117     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26547 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.280151576     </BIAS>
+ <RMSE>  0.746764600     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.101886794     </MEAN_OBS>
+ <STDV_OBS>  0.367297620     </STDV_OBS>
+ <EXP>
+ <ID>       26600 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.213147029     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.320073575     </BIAS>
+ <RMSE>  0.654422462     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26600 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.498720556     </BIAS>
+ <RMSE>  0.380082160     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26600 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.232781306     </BIAS>
+ <RMSE>  0.806472421     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26600 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.251320899     </BIAS>
+ <RMSE>  0.778545380     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.05660391E-02 </MEAN_OBS>
+ <STDV_OBS>  0.335324883     </STDV_OBS>
+ <EXP>
+ <ID>       26621 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.168461889     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.444702029     </BIAS>
+ <RMSE>  0.738776624     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26621 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.25362515     </BIAS>
+ <RMSE>  0.231700078     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26621 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.253605008     </BIAS>
+ <RMSE>  0.681104124     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26621 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.253758967     </BIAS>
+ <RMSE>  0.659142256     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.116981134     </MEAN_OBS>
+ <STDV_OBS>  0.540715516     </STDV_OBS>
+ <EXP>
+ <ID>       26634 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.268603563     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.418886751     </BIAS>
+ <RMSE>  0.859208167     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26634 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.53779840     </BIAS>
+ <RMSE>  0.253358126     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26634 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.306911111     </BIAS>
+ <RMSE>  0.801027596     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26634 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.333919048     </BIAS>
+ <RMSE>  0.781855226     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.113207556     </MEAN_OBS>
+ <STDV_OBS>  0.378900141     </STDV_OBS>
+ <EXP>
+ <ID>       26636 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.220399916     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.383169800     </BIAS>
+ <RMSE>  0.748706281     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26636 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.522254169     </BIAS>
+ <RMSE>  0.640431404     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26636 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.301970631     </BIAS>
+ <RMSE>  0.697304785     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26636 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.230547860     </BIAS>
+ <RMSE>  0.791017592     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.113207549     </MEAN_OBS>
+ <STDV_OBS>  0.416742802     </STDV_OBS>
+ <EXP>
+ <ID>       26714 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.197680026     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.548036873     </BIAS>
+ <RMSE>  0.603195071     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26714 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.03973746     </BIAS>
+ <RMSE>  0.300305814     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26714 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.196666747     </BIAS>
+ <RMSE>  0.871385336     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26714 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.222485840     </BIAS>
+ <RMSE>  0.846613824     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.84313679E-02 </MEAN_OBS>
+ <STDV_OBS>  0.281139284     </STDV_OBS>
+ <EXP>
+ <ID>       26737 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          51 </NUM>
+ <MEAN>  0.159072980     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.440034270     </BIAS>
+ <RMSE>  0.295413822     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26737 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          51 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.53701508     </BIAS>
+ <RMSE>   5.88470884E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26737 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          51 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.318796664     </BIAS>
+ <RMSE>  0.203240246     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26737 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          51 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.318972558     </BIAS>
+ <RMSE>  0.204025507     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.14339626     </MEAN_OBS>
+ <STDV_OBS>   1.52749109     </STDV_OBS>
+ <EXP>
+ <ID>        3281 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.412249386     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>   1.12305844     </BIAS>
+ <RMSE>  0.782494545     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3281 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.17875898     </BIAS>
+ <RMSE>  0.775977075     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3281 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>   1.15636468     </BIAS>
+ <RMSE>  0.769507051     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3281 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>   1.17820156     </BIAS>
+ <RMSE>  0.760952890     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.179166675     </MEAN_OBS>
+ <STDV_OBS>  0.508113623     </STDV_OBS>
+ <EXP>
+ <ID>        6400 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          48 </NUM>
+ <MEAN>  0.130437344     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.243874386     </BIAS>
+ <RMSE>  0.927743852     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6400 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          48 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.418450773     </BIAS>
+ <RMSE>  0.784421802     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6400 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          48 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.180650219     </BIAS>
+ <RMSE>  0.962847054     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6400 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          48 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.184291705     </BIAS>
+ <RMSE>  0.960726261     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.41509444E-02 </MEAN_OBS>
+ <STDV_OBS>  0.338751674     </STDV_OBS>
+ <EXP>
+ <ID>       12100 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.106874950     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.287610769     </BIAS>
+ <RMSE>  0.851268411     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12100 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.784570932     </BIAS>
+ <RMSE>  0.258628249     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12100 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.132052690     </BIAS>
+ <RMSE>  0.924092233     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12100 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.153357744     </BIAS>
+ <RMSE>  0.921580195     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.54716992E-03 </MEAN_OBS>
+ <STDV_OBS>  0.151307911     </STDV_OBS>
+ <EXP>
+ <ID>       12105 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   6.15353696E-02 </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.717948198     </BIAS>
+ <RMSE>  0.275427192     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12105 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.646165311     </BIAS>
+ <RMSE>  0.533365846     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12105 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.149181321     </BIAS>
+ <RMSE>  0.396142811     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12105 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.140465856     </BIAS>
+ <RMSE>  0.366248220     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.77358496E-03 </MEAN_OBS>
+ <STDV_OBS>  0.635442019     </STDV_OBS>
+ <EXP>
+ <ID>       12120 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.199910641     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.813421071     </BIAS>
+ <RMSE>  0.414266020     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12120 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.903213799     </BIAS>
+ <RMSE>  0.559963942     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12120 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.675399423     </BIAS>
+ <RMSE>  0.119707122     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12120 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.627874792     </BIAS>
+ <RMSE>   9.60611850E-02 </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.77358496E-02 </MEAN_OBS>
+ <STDV_OBS>  0.445848763     </STDV_OBS>
+ <EXP>
+ <ID>       12125 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.129512459     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.553143084     </BIAS>
+ <RMSE>  0.525320172     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12125 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.607414722     </BIAS>
+ <RMSE>  0.408526301     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12125 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.443395108     </BIAS>
+ <RMSE>  0.466593325     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12125 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.405644268     </BIAS>
+ <RMSE>  0.459556043     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.64150966E-02 </MEAN_OBS>
+ <STDV_OBS>  0.315318078     </STDV_OBS>
+ <EXP>
+ <ID>       12135 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.157055333     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.429337740     </BIAS>
+ <RMSE>  0.394947290     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12135 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.505602062     </BIAS>
+ <RMSE>  0.290836513     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12135 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.225358143     </BIAS>
+ <RMSE>  0.566513181     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12135 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.272189170     </BIAS>
+ <RMSE>  0.577927411     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.66037744E-03 </MEAN_OBS>
+ <STDV_OBS>  0.172120482     </STDV_OBS>
+ <EXP>
+ <ID>       12155 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   8.32173005E-02 </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.247313023     </BIAS>
+ <RMSE>  0.529332519     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12155 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.279100120     </BIAS>
+ <RMSE>  0.579704285     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12155 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.133491024     </BIAS>
+ <RMSE>  0.297507018     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12155 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.165952519     </BIAS>
+ <RMSE>  0.261470675     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.84905706E-02 </MEAN_OBS>
+ <STDV_OBS>  0.293983459     </STDV_OBS>
+ <EXP>
+ <ID>       12160 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.157770172     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.224653095     </BIAS>
+ <RMSE>  0.820406139     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12160 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.297548860     </BIAS>
+ <RMSE>  0.652722716     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12160 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.145831183     </BIAS>
+ <RMSE>  0.789110184     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12160 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.207298830     </BIAS>
+ <RMSE>  0.710001409     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.13207549E-02 </MEAN_OBS>
+ <STDV_OBS>  0.215056717     </STDV_OBS>
+ <EXP>
+ <ID>       12185 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.133911461     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.244545236     </BIAS>
+ <RMSE>  0.651902318     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12185 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.252921611     </BIAS>
+ <RMSE>  0.565108716     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12185 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.179859579     </BIAS>
+ <RMSE>  0.807990074     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12185 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.182614133     </BIAS>
+ <RMSE>  0.771703780     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.13207549E-02 </MEAN_OBS>
+ <STDV_OBS>  0.306361884     </STDV_OBS>
+ <EXP>
+ <ID>       12195 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.199124262     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.411469638     </BIAS>
+ <RMSE>  0.145249203     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12195 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.587945044     </BIAS>
+ <RMSE>   3.47561128E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12195 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.274130076     </BIAS>
+ <RMSE>  0.303115845     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12195 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.297032058     </BIAS>
+ <RMSE>  0.220704675     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.67924541E-02 </MEAN_OBS>
+ <STDV_OBS>  0.183641776     </STDV_OBS>
+ <EXP>
+ <ID>       12200 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.96190414E-02 </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.288502157     </BIAS>
+ <RMSE>  0.662199616     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12200 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.530608416     </BIAS>
+ <RMSE>  0.249793112     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12200 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.249881417     </BIAS>
+ <RMSE>  0.888135850     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12200 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.242832109     </BIAS>
+ <RMSE>  0.861142874     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.54716992E-03 </MEAN_OBS>
+ <STDV_OBS>  0.216263339     </STDV_OBS>
+ <EXP>
+ <ID>       12205 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   8.81659314E-02 </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.331067234     </BIAS>
+ <RMSE>  0.364902347     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12205 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.898302555     </BIAS>
+ <RMSE>  0.176922977     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12205 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.229438350     </BIAS>
+ <RMSE>  0.282867223     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12205 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.207858741     </BIAS>
+ <RMSE>  0.298656970     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.54716992E-03 </MEAN_OBS>
+ <STDV_OBS>  0.150446907     </STDV_OBS>
+ <EXP>
+ <ID>       12210 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   5.71220368E-02 </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.338626921     </BIAS>
+ <RMSE>  0.398857623     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12210 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.827681243     </BIAS>
+ <RMSE>  0.178181037     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12210 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.128489360     </BIAS>
+ <RMSE>  0.289709449     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12210 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.144212574     </BIAS>
+ <RMSE>  0.252000660     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>  0.162487179     </STDV_OBS>
+ <EXP>
+ <ID>       12215 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          46 </NUM>
+ <MEAN>   7.69955441E-02 </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.301629722     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12215 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          46 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.395820647     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12215 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          46 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.167384341     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12215 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          46 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.160711318     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.77358496E-03 </MEAN_OBS>
+ <STDV_OBS>   8.01441073E-02 </STDV_OBS>
+ <EXP>
+ <ID>       12230 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   3.80707756E-02 </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.154323816     </BIAS>
+ <RMSE>  0.176738903     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12230 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.195306048     </BIAS>
+ <RMSE>   4.59762216E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12230 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>   5.55197783E-02 </BIAS>
+ <RMSE>  0.730453491     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12230 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>   6.81219026E-02 </BIAS>
+ <RMSE>  0.669128239     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>  0.128974810     </STDV_OBS>
+ <EXP>
+ <ID>       12235 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   7.29846358E-02 </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.613676429     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12235 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.844846785     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12235 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.121819019     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12235 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.127752274     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.77358496E-03 </MEAN_OBS>
+ <STDV_OBS>   6.55473620E-02 </STDV_OBS>
+ <EXP>
+ <ID>       12250 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   3.73435579E-02 </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.192420155     </BIAS>
+ <RMSE>  -5.07997675E-03 </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12250 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.383116156     </BIAS>
+ <RMSE>   2.39186715E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12250 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>   5.14139235E-02 </BIAS>
+ <RMSE>  0.269707859     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12250 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>   6.51852861E-02 </BIAS>
+ <RMSE>  0.200013354     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.67924467E-02 </MEAN_OBS>
+ <STDV_OBS>  0.211908564     </STDV_OBS>
+ <EXP>
+ <ID>       12270 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   9.51002091E-02 </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.200578108     </BIAS>
+ <RMSE>  0.853960276     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12270 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.405751407     </BIAS>
+ <RMSE>  0.570284545     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12270 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.191197395     </BIAS>
+ <RMSE>  0.955966890     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12270 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.197352231     </BIAS>
+ <RMSE>  0.939935446     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.64150966E-02 </MEAN_OBS>
+ <STDV_OBS>  0.392289340     </STDV_OBS>
+ <EXP>
+ <ID>       12272 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.141908437     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.472963840     </BIAS>
+ <RMSE>  -1.90442372E-02 </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12272 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.496469557     </BIAS>
+ <RMSE>  -5.36500029E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12272 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.365981162     </BIAS>
+ <RMSE>  -4.56963573E-03 </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12272 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.400493979     </BIAS>
+ <RMSE>   1.09405036E-03 </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.15094346E-02 </MEAN_OBS>
+ <STDV_OBS>  0.359832108     </STDV_OBS>
+ <EXP>
+ <ID>       12280 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.208599910     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.310210109     </BIAS>
+ <RMSE>  0.843249321     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12280 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.323023826     </BIAS>
+ <RMSE>  0.690150559     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12280 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.231169969     </BIAS>
+ <RMSE>  0.894001842     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12280 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.243668869     </BIAS>
+ <RMSE>  0.855147779     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>  0.210887581     </STDV_OBS>
+ <EXP>
+ <ID>       12285 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          35 </NUM>
+ <MEAN>   7.76115656E-02 </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.187378526     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12285 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          35 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.237582937     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12285 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          35 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>   6.33643419E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12285 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          35 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.207853079     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.64150966E-02 </MEAN_OBS>
+ <STDV_OBS>  0.168973133     </STDV_OBS>
+ <EXP>
+ <ID>       12295 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   9.75933820E-02 </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.384475470     </BIAS>
+ <RMSE>   2.51702517E-02 </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12295 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.947907507     </BIAS>
+ <RMSE>   1.73529070E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12295 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.154075742     </BIAS>
+ <RMSE>  0.101305835     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12295 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.191126630     </BIAS>
+ <RMSE>   5.10419682E-02 </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   6.60556406E-02 </STDV_OBS>
+ <EXP>
+ <ID>       12310 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   2.27327570E-02 </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>   4.30304259E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12310 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.248412624     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12310 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>   2.39501167E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12310 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>   6.54295087E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   6.04012609E-02 </STDV_OBS>
+ <EXP>
+ <ID>       12330 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   2.88508143E-02 </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>   6.48988858E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12330 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.333793342     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12330 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>   5.88815771E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12330 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>   5.98287284E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.88679248E-02 </MEAN_OBS>
+ <STDV_OBS>   4.43873927E-02 </STDV_OBS>
+ <EXP>
+ <ID>       12345 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   2.08757017E-02 </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.127179965     </BIAS>
+ <RMSE>  -6.40612468E-02 </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12345 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.205926120     </BIAS>
+ <RMSE>  -7.75933117E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12345 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>   8.96439627E-02 </BIAS>
+ <RMSE>  -2.18448136E-03 </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12345 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>   8.91777873E-02 </BIAS>
+ <RMSE>   5.76854404E-03 </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.77358496E-02 </MEAN_OBS>
+ <STDV_OBS>   6.91399649E-02 </STDV_OBS>
+ <EXP>
+ <ID>       12375 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   2.61434317E-02 </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.102418698     </BIAS>
+ <RMSE>  0.812732577     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12375 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.226310715     </BIAS>
+ <RMSE>  0.368230850     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12375 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.133652523     </BIAS>
+ <RMSE>  0.735359251     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12375 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.140936449     </BIAS>
+ <RMSE>  0.609632254     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.88679248E-02 </MEAN_OBS>
+ <STDV_OBS>  0.233144984     </STDV_OBS>
+ <EXP>
+ <ID>       12385 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   6.46371171E-02 </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.172780395     </BIAS>
+ <RMSE>  0.959075809     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12385 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.202525139     </BIAS>
+ <RMSE>  0.687935054     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12385 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.157631472     </BIAS>
+ <RMSE>  0.979608595     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12385 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.155724809     </BIAS>
+ <RMSE>  0.977409124     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.01886816E-02 </MEAN_OBS>
+ <STDV_OBS>   7.35854357E-02 </STDV_OBS>
+ <EXP>
+ <ID>       12399 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.11818214E-02 </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.178624779     </BIAS>
+ <RMSE>  0.340244383     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12399 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.378557533     </BIAS>
+ <RMSE>   9.55434963E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12399 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>   9.40896049E-02 </BIAS>
+ <RMSE>  0.589513958     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12399 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.108537063     </BIAS>
+ <RMSE>  0.412052512     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.13207549E-02 </MEAN_OBS>
+ <STDV_OBS>   5.21315448E-02 </STDV_OBS>
+ <EXP>
+ <ID>       12400 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   1.97337158E-02 </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.208124757     </BIAS>
+ <RMSE>  -4.41516675E-02 </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12400 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.219930276     </BIAS>
+ <RMSE>  -7.27945939E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12400 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>   4.25622314E-02 </BIAS>
+ <RMSE>  0.259328455     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12400 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>   6.67242110E-02 </BIAS>
+ <RMSE>  -6.24963874E-03 </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   2.06711106E-02 </STDV_OBS>
+ <EXP>
+ <ID>       12418 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   7.81209394E-03 </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>   4.26735356E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12418 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.210929558     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12418 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>   1.70279406E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12418 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>   2.04751696E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.88679248E-02 </MEAN_OBS>
+ <STDV_OBS>   3.88465226E-02 </STDV_OBS>
+ <EXP>
+ <ID>       12435 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   1.63980946E-02 </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>   9.85295400E-02 </BIAS>
+ <RMSE>   1.34505238E-02 </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12435 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.159417883     </BIAS>
+ <RMSE>  -4.95307446E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12435 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>   9.57390070E-02 </BIAS>
+ <RMSE>   9.74588394E-02 </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12435 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.101205245     </BIAS>
+ <RMSE>   4.31028903E-02 </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.77358496E-03 </MEAN_OBS>
+ <STDV_OBS>   6.79496527E-02 </STDV_OBS>
+ <EXP>
+ <ID>       12465 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   2.27686483E-02 </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>   6.97457641E-02 </BIAS>
+ <RMSE>   9.17238276E-03 </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12465 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.65012060E-02 </BIAS>
+ <RMSE>  -3.05635668E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12465 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>   3.96459550E-02 </BIAS>
+ <RMSE>   5.91852143E-02 </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12465 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>   7.00390264E-02 </BIAS>
+ <RMSE>  -4.79823304E-03 </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.113207541     </MEAN_OBS>
+ <STDV_OBS>   1.62049625E-02 </STDV_OBS>
+ <EXP>
+ <ID>       12488 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.62358259E-03 </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.397136688     </BIAS>
+ <RMSE>   1.44851236E-02 </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12488 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.429642648     </BIAS>
+ <RMSE>  -8.32343251E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12488 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.396823525     </BIAS>
+ <RMSE>   5.13542257E-02 </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12488 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.397198290     </BIAS>
+ <RMSE>   1.89188812E-02 </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.139622644     </MEAN_OBS>
+ <STDV_OBS>  0.152293503     </STDV_OBS>
+ <EXP>
+ <ID>       12497 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   5.15725948E-02 </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.637088656     </BIAS>
+ <RMSE>   5.19117415E-02 </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12497 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.619033933     </BIAS>
+ <RMSE>   3.61338891E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12497 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.580235302     </BIAS>
+ <RMSE>  0.110061042     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12497 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.577785850     </BIAS>
+ <RMSE>  0.115157694     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.41509444E-02 </MEAN_OBS>
+ <STDV_OBS>  0.342907369     </STDV_OBS>
+ <EXP>
+ <ID>       12115 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.101418875     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.636015415     </BIAS>
+ <RMSE>  0.834873796     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12115 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.870982766     </BIAS>
+ <RMSE>  0.753969550     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12115 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.265008181     </BIAS>
+ <RMSE>  0.743403912     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12115 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.242602885     </BIAS>
+ <RMSE>  0.704822600     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.39622647E-02 </MEAN_OBS>
+ <STDV_OBS>   6.59206659E-02 </STDV_OBS>
+ <EXP>
+ <ID>       12300 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   2.94716526E-02 </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.177479386     </BIAS>
+ <RMSE>  -3.77543904E-02 </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12300 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.403714150     </BIAS>
+ <RMSE>  -8.19678307E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12300 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.145890206     </BIAS>
+ <RMSE>  0.300557315     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12300 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.153989777     </BIAS>
+ <RMSE>  0.196613029     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.13207549E-02 </MEAN_OBS>
+ <STDV_OBS>   6.95924088E-02 </STDV_OBS>
+ <EXP>
+ <ID>       12360 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   3.97242829E-02 </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.246362269     </BIAS>
+ <RMSE>  0.391514957     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12360 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.304835260     </BIAS>
+ <RMSE>  0.162101954     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12360 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>   7.41947740E-02 </BIAS>
+ <RMSE>  0.247593358     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12360 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>   6.91320673E-02 </BIAS>
+ <RMSE>  0.299421251     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.135849059     </MEAN_OBS>
+ <STDV_OBS>  0.347317994     </STDV_OBS>
+ <EXP>
+ <ID>       26729 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.168684706     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.210826382     </BIAS>
+ <RMSE>  0.882930577     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26729 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.862961233     </BIAS>
+ <RMSE>  0.399427205     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26729 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.167087510     </BIAS>
+ <RMSE>  0.947004795     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26729 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.208589524     </BIAS>
+ <RMSE>  0.874553859     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.50943398E-02 </MEAN_OBS>
+ <STDV_OBS>  0.356073588     </STDV_OBS>
+ <EXP>
+ <ID>       26518 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.207681239     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.428628832     </BIAS>
+ <RMSE>  0.470746666     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26518 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.486762196     </BIAS>
+ <RMSE>  0.344257295     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26518 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.321504980     </BIAS>
+ <RMSE>  0.670791388     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26518 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.307686329     </BIAS>
+ <RMSE>  0.660908520     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   4.37014252E-02 </STDV_OBS>
+ <EXP>
+ <ID>       26524 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          37 </NUM>
+ <MEAN>   2.91139148E-02 </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.373947620     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26524 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          37 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.787050366     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26524 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          37 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>   3.66874263E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26524 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          37 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>   4.31068204E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.87804879E-03 </MEAN_OBS>
+ <STDV_OBS>  0.160933286     </STDV_OBS>
+ <EXP>
+ <ID>       26531 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          41 </NUM>
+ <MEAN>   5.29648252E-02 </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.246196255     </BIAS>
+ <RMSE>  0.419404477     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26531 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          41 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.55628669     </BIAS>
+ <RMSE>  -1.00844996E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26531 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          41 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.104885854     </BIAS>
+ <RMSE>  0.985219061     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26531 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          41 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.138435543     </BIAS>
+ <RMSE>  0.958999753     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   7.80999810E-02 </STDV_OBS>
+ <EXP>
+ <ID>       26629 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          37 </NUM>
+ <MEAN>   3.04386653E-02 </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.427176356     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26629 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          37 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.09707546     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26629 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          37 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>   6.09912165E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26629 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          37 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>   7.70373493E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   1.97024308E-02 </STDV_OBS>
+ <EXP>
+ <ID>       26633 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          33 </NUM>
+ <MEAN>   1.27607519E-02 </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>   2.09510624E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26633 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          33 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.10921633     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26633 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          33 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.221137524     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26633 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          33 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>   1.94016118E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>  0.292174667     </STDV_OBS>
+ <EXP>
+ <ID>       26730 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          39 </NUM>
+ <MEAN>  0.111680500     </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.188305184     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26730 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          39 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.60533595     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26730 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          39 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.266457289     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26730 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          39 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.288404524     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   8.53189901E-02 </STDV_OBS>
+ <EXP>
+ <ID>       26509 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          32 </NUM>
+ <MEAN>   4.02286910E-02 </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>   7.02694505E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26509 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          32 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.266832739     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26509 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          32 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>   3.35875787E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26509 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          32 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>   8.39752927E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>  0.303355187     </STDV_OBS>
+ <EXP>
+ <ID>       33135 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          41 </NUM>
+ <MEAN>   9.55377743E-02 </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.452972889     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       33135 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          41 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.517097950     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       33135 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          41 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.295200258     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       33135 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          41 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.299632877     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   2.25409288E-02 </STDV_OBS>
+ <EXP>
+ <ID>       33088 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          37 </NUM>
+ <MEAN>   9.33187269E-03 </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>   2.02577617E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       33088 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          37 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.32065614E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       33088 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          37 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>   2.17645988E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       33088 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          37 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>   2.22342368E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>  0.220873043     </STDV_OBS>
+ <EXP>
+ <ID>       33261 </ID>
+ <NAME>cy43h21_MSG</NAME>
+ <NUM>          29 </NUM>
+ <MEAN>   5.89291304E-02 </MEAN>
+ <STDV>  -1.65313319E-10 </STDV>
+ <BIAS>  0.322672665     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   2.44625399E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       33261 </ID>
+ <NAME>cy43h21_MSG_IAU</NAME>
+ <NUM>          29 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.278217733     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       33261 </ID>
+ <NAME>cy43h21_MSG_2</NAME>
+ <NUM>          29 </NUM>
+ <MEAN>  -1.54761734E-37 </MEAN>
+ <STDV>  -1.54763887E-37 </STDV>
+ <BIAS>  0.273531437     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -1.54761914E-37 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       33261 </ID>
+ <NAME>cy43h21_MSG_2_IAU</NAME>
+ <NUM>          29 </NUM>
+ <MEAN>   4.55604170E-41 </MEAN>
+ <STDV>   4.55604170E-41 </STDV>
+ <BIAS>  0.217031479     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   4.55604170E-41 </CORR>
+ </EXP>
+ </STATION>
 </STAT>
